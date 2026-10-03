@@ -1,18 +1,125 @@
 <h1 align="center">Hi 👋, I'm Niraj Patil</h1>
-<h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajpatil99&label=Profile%20views&color=0e75b6&style=flat" alt="nirajpatil99" /> </p>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Microservices</h3>
 
-- 📫 How to reach me *nirajpatil623@gmail.com*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niraj patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niraj patil" height="30" width="40" /></a>
+<p align="center">
+  Building reliable backend applications and data-intensive solutions with Java & Spring Boot.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nirajpatil99&label=Profile%20views&color=0e75b6&style=flat" alt="nirajpatil99" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajpatil99&show_icons=true&locale=en&layout=compact" alt="nirajpatil99" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirajpatil99&" alt="nirajpatil99" /></p>
+### 👨‍💻 About Me
+
+* 💼 Software Engineer with **2 years of experience** in backend application development
+* ☕ Primarily working with **Java, Spring Boot, Spring Batch, Hibernate, JPA and REST APIs**
+* 🏗️ Experience developing **enterprise regulatory applications and backend microservices**
+* ⚙️ Experienced with **CI/CD, Docker, Jenkins, Maven and AWS ECR**
+* 🗄️ Hands-on experience with **PostgreSQL, MySQL and SQL**
+* 🔄 Backend development experience across **Java Spring Boot and Python Django**
+* 🧩 Interested in **Microservices, Distributed Systems, System Design and Cloud Technologies**
+* 🤖 Using AI-assisted development tools such as **Claude Code, Cursor and GitHub Copilot** to improve development productivity, debugging and code quality
+* 🚀 Currently focused on building scalable and maintainable backend systems
+
+---
+
+### 🛠️ Tech Stack
+
+#### Backend Development
+
+<p align="left">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring boot" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-batch" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring batch" width="40" height="40"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="hibernate" width="40" height="40"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  </a>
+</p>
+
+**Java · Spring Boot · Spring MVC · Hibernate · JPA · REST APIs · Python · Django . Flutter**
+
+#### Databases
+
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
+
+**PostgreSQL · MySQL · SQL Server · SQL**
+
+#### DevOps & Engineering Tools
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/ecr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="40"/>
+  </a>
+  <a href="https://maven.apache.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
+  </a>
+</p>
+
+**Docker · Jenkins · Maven · Git · AWS ECR · CI/CD**
+
+#### Other Technologies
+
+**SpEL · Flutter · JavaScript · AI-Assisted Development**
+
+---
+
+### 💼 Professional Experience
+
+**Junior Software Engineer — IRIS RegTech Solutions Limited**
+
+Working on enterprise regulatory applications involving:
+
+* Java & Spring Boot backend services
+* RESTful APIs and microservices
+* Spring Batch and data-intensive processing
+* Hibernate/JPA and SQL
+* Spring Expression Language (SpEL) based business validations
+* PostgreSQL/MySQL
+* Docker-based deployments
+* Jenkins CI/CD pipelines
+* AWS ECR
+* Python Django REST APIs
+* Production troubleshooting and root-cause analysis
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/niraj-patil-41b7a9207" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Niraj Patil" height="30" width="40" />
+  </a>
+</p>
+
+📫 **Email:** [nirajpatil623@gmail.com](mailto:nirajpatil623@gmail.com)
+
+---
+</p>
